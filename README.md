@@ -1,7 +1,7 @@
 # eslint-config-fortech-react
 ESLint config for modern JavaScript syntax and React.
 
-This is intended to be used in a React codebase. For a base config that can be used for node or non-React projects, try [eslint-config-fortech](https://github.com/FortechRomania/eslint-config-fortech)
+This is intended to be used in a React codebase. For a base config that can be used for node or non-React projects, try [eslint-config-fortech](https://github.com/FortechRomania/eslint-config-fortech).
 
 ## Usage
 Install eslint and the babel-eslint parser: 
