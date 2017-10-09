@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-fortech-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ESLint config for modern JavaScript syntax and React",
   "main": "index.js",
   "repository": "https://github.com/FortechRomania/eslint-config-fortech-react",
