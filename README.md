@@ -11,7 +11,7 @@ npm i eslint babel-eslint -D
 
 Install the package: 
 ```bash
-npm i eslint-config-fortech -D
+npm i eslint-config-fortech-react -D
 ```
 
 Install peer dependencies: 
